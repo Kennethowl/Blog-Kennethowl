@@ -83,3 +83,9 @@ https://www.dafont.com/es/
 * ***Google Fonts:*** Google tiene su propia herramienta de distribuidoras de fuentes, por lo que también puedes aprovechar todas estas para tus proyectos web además de los de diseño. Te animo visites su página y veas la variedad que pueda ofrecerte.
 https://fonts.google.com/
 Por último, quiero mencionarte que el diseño va más allá del marketing digital, también puedes comunicarte a través de ello, ser tú mismo y mostrar tus dotes artísticos y tu esencia como tal. Con ello realmente espero poder haber dado un aporte y que sin duda puedas animarte a investigar y crear tus propios proyectos.
+
+Publicación para la página de Informática Administrativa
+
+```
+https://www.facebook.com/Asociaci%C3%B3n-de-Inform%C3%A1tica-Administrativa-Unah-Vs-103492411446077
+```
