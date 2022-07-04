@@ -1,5 +1,7 @@
 # Blog-Kennethowl
 
+## Utab, extensión para decorar inicio de Navegadores 8/07/2023
+
 ## Herramientas para Diseño 27/06/2022
 
 El diseño es un arma esencial para el marketing, actualmente son muchas las empresas que tratan de atacar a la audiencia con cada anuncio publicitario que realizan. El diseño nos viene ayudar a transmitir un mensaje, es por eso que es tan importante para toda empresa, porque aquí generan una imagen y promocionan sus productos o servicio. Gracias a esto somos capaces de llegar a muchas personas.
