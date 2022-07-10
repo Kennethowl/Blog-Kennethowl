@@ -1,6 +1,6 @@
 # Blog-Kennethowl
 
-## Utab, extensión para decorar inicio de Navegadores 8/07/2023
+## Utab, extensión para decorar inicio de Navegadores 12/07/2023
 
 ## Herramientas para Diseño 27/06/2022
 
