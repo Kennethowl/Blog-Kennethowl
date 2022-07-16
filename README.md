@@ -1,7 +1,18 @@
 # Blog-Kennethowl
 
-## Utab, extensión para decorar inicio de Navegadores 12/07/2023
+## Utab, extensión para decorar inicio de Navegadores 16/07/2022
 
+Te imaginas tener un inicio en los navegadores en los que el fondo es animado, esto sería sin duda algo muy sorprendente, la verdad es que es posible gracias a una extensión llamada UTAB. Disponible en los navegadores de Mozilla Firefox, Google Chrome y Safari, nosotros podemos decorar nuestro inicio de pestaña de una manera grandiosa. Basta con que explores su pagina web para que puedas ver de que se trata, como poder acceder a ella, entre otras cosas.
+Esta es la manera en la que normalmente se ve, tu puedes escoger el tema que mejor te parezca, para mi caso coloco este de satélite que realmente es muy genial. Su instalación es fácil, por lo que a continuación te mencionaremos sus pasos los cuales no son muy difíciles. Quieres tener más minimalista tu inicio de pestaña, ven y disfruta.
+
+* Paso 1. Ir a la esquina superior derecha y dar click en los 3 puntitos que observamos en pantalla, luego nos dirigiremos en la opción de configuración, aquí lo que vamos a buscar es la opción de extensiones las cuales nos va a servir para poder instalar Utab. Este punto se encuentra en la esquina inferior izquierda, damos click ahí y proseguimos.
+
+* Paso 2. En extensiones abrimos las 3 barritas y daremos click en abrir Chrome web store, aquí es donde buscaremos como Utab y saldrá lo que es nuestra extensión, la cual instalaremos.
+
+* Paso 3. Descargamos Utab luego de haberla buscado, la instalación se hará de manera breve y al momento se ira guardando los cambios y posiblemente automáticamente se coloque como pantalla de inicio, Utab no solamente te ofrece un servicio de decoración de inicio de pantalla, más adelante te describiré para que más puede ser de utilidad, siendo este su punto principal.
+
+* Paso 4. Ir a la pantalla de inicio y seleccionar en la configuración de la app que tipo de decoración necesitas para tu Background, cabe mencionar que no puede ser solamente un vídeo, también imágenes, Unsplash, sliders o bien de manera predeterminada. Con este último paso déjame mencionarte que Utab es útil para la creación y organización de carpetas de los sitios web que visitas, como lo seria tus marcadores del navegador. Esta es una de sus utilidades principales, y por la que vale la pena dar una prueba a esta asombrosa app. Para el caso te dejare un vídeo el cual explica mucho mejor que esta redacción mía como debes instalar Utab, por lo que también espero te pueda servir y para mí es una alegría el poder servir. Sin más que decir te ánimo, te gustara la experiencia.
+ 
 ## Herramientas para Diseño 27/06/2022
 
 El diseño es un arma esencial para el marketing, actualmente son muchas las empresas que tratan de atacar a la audiencia con cada anuncio publicitario que realizan. El diseño nos viene ayudar a transmitir un mensaje, es por eso que es tan importante para toda empresa, porque aquí generan una imagen y promocionan sus productos o servicio. Gracias a esto somos capaces de llegar a muchas personas.
