@@ -1,5 +1,7 @@
 # Blog-Kennethowl
 
+## TeraBox, La Nube de 1 Tera
+
 ## Utab, extensión para decorar inicio de Navegadores 16/07/2022
 
 Te imaginas tener un inicio en los navegadores en los que el fondo es animado, esto sería sin duda algo muy sorprendente, la verdad es que es posible gracias a una extensión llamada UTAB. Disponible en los navegadores de Mozilla Firefox, Google Chrome y Safari, nosotros podemos decorar nuestro inicio de pestaña de una manera grandiosa. Basta con que explores su pagina web para que puedas ver de que se trata, como poder acceder a ella, entre otras cosas.
